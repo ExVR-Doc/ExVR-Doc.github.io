@@ -8,6 +8,8 @@
    7. [为什么我没法VR启动](/zh-cn/problems.md#为什么我的VRChat没办法变成VR模式) </br>
    8. [为什么我没法关闭VR模式了](/zh-cn/problems.md#为什么我的VRChat没办法变成原来的样子了) </br>
    9. [手势表情问题](/zh-cn/problems.md#关于模型手势表情的问题) </br>
+   10. [R菜单看不到](/zh-cn/problems.md#R菜单看不到) </br>
+   11. [ExVR快捷键没反应](/zh-cn/problems.md#ExVR快捷键没反应) </br>
 
 # 最好的问题反馈方式 {docsify-ignore}
 在处理软件和游戏的问题时，准确而有效的反馈能够帮助开发者快速定位和解决问题。以下是反馈的最佳操作：

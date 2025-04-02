@@ -38,8 +38,11 @@
   备注：具体问题与拯救者的调度有关，暂无更多解决方法。
 
 # 常见问题展示  {docsify-ignore}
-## 校准问题  {docsify-ignore}
+## R菜单看不到 {docsify-ignore}
+ - 使用VR模式打开VRChat，抬起手保证自己看得到R菜单，另一只手操作。
+ - 打开R菜单设置，打开圆盘菜单，打开HUD显示即可。
 
+## 校准问题  {docsify-ignore}
 1. 头的校准  
    - 将头摆正，按 `Ctrl + '`（分号）。
 
@@ -54,15 +57,13 @@
 1. 进入游戏无法移动  
    - 进入游戏按一次 `ESC`。
 
-
-
 ## 驱动问题 {docsify-ignore}
 **只有头部有追踪，手部没有**
 ### 解决方法 {docsify-ignore}
    1. 关闭SteamVR跟VRChat，重新安装驱动(点击ExVR内的 __Uninstall Driver__ 再 __Install Driver__)后，重新打开SteamVR。
    2. 重启电脑之后尝试重新安装驱动
 
-# 已知问题描述  {docsify-ignore}
+# ExVR快捷键没反应  {docsify-ignore}
 ## 场景  {docsify-ignore}
 
 在游戏内鼠标及快捷键无反应，但在EXVR窗口或其他窗口正常。

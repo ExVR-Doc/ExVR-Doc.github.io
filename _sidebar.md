@@ -1,8 +1,8 @@
-- 快速使用
+- __快速使用__
   - [简易使用指南](/zh-cn/guide.md)
   - [快捷键列表](/zh-cn/hotkey.md#按键设置)
 - 
-- 常见问题
+- __常见问题__
   - [问题列表](/zh-cn/problems_list.md)
   - [启动VRChat报错](/zh-cn/problems.md#启动VRChat报错)
   - [面捕相关问题](/zh-cn/problems.md#面捕常见问题)
@@ -10,3 +10,5 @@
   - [校准操作](/zh-cn/problems.md#校准问题)
   - [进入游戏无法移动](/zh-cn/problems.md#游戏内操作问题)
   - [启动SteamVR手不见](/zh-cn/problems.md#启动SteamVR手不见)
+  - [R菜单看不到](/zh-cn/problems.md#R菜单看不到)
+  - [ExVR快捷键没反应](/zh-cn/problems.md#ExVR快捷键没反应)
