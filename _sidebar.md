@@ -1,3 +1,5 @@
-- 快速入门
-  - [安装指南](/zh-cn/guide.md)
-
+- 快速使用
+  - [简易使用指南](/zh-cn/guide.md)
+- 常见问题
+  - [问题列表](/zh-cn/problems_list.md)
+  - [xxx](/zh-cn/problems.md#xxx)
