@@ -1,12 +1,12 @@
 - 快速使用
   - [简易使用指南](/zh-cn/guide.md)
-
-- 常见问题3
-  - [问题列表](/zh-cn/problems_list.md)
-  - [xxx](/zh-cn/problems.md#xxx)
-  - xxx2
-
+  - [快捷键列表](/zh-cn/hotkey.md#按键设置)
+- 
 - 常见问题
   - [问题列表](/zh-cn/problems_list.md)
-  - [xxx](/zh-cn/problems.md#xxx)
-  - xxx2
+  - [启动VRChat报错](/zh-cn/problems.md#启动VRChat报错)
+  - [面捕相关问题](/zh-cn/problems.md#面捕常见问题)
+  - [联想拯救者电脑异常占用与卡顿](/zh-cn/problems.md#联想拯救者电脑异常占用与卡顿问题)
+  - [校准操作](/zh-cn/problems.md#校准问题)
+  - [进入游戏无法移动](/zh-cn/problems.md#游戏内操作问题)
+  - [启动SteamVR手不见](/zh-cn/problems.md#启动SteamVR手不见)

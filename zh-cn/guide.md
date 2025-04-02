@@ -25,6 +25,7 @@
   
 - 点击<font color=green> __Start Tracking__ </font> 开启追踪。
 - 开启追踪后点击 __Show Frame__ 可以查看摄像头画面。
+- 点击查看 <font color=red>[__快捷键列表__](/zh-cn/hotkey.md#按键设置)</font>
 ## 步骤四：使用面捕软件（先安装好驱动）
 - 打开解压的 __VRCFaceTracking_5.2.3.0_x64.zip__ 内的 __VRCFaceTracking.exe__ 。
 - 如果显示 __No Modules Installed__ 请安装驱动。
