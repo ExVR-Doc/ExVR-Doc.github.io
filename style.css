@@ -16,23 +16,3 @@
     border-radius: var(--radius);
     transition: all 0.3s ease;
   }
-
-/* 隐藏所有标题中的 {#id} */
-h1::after, h2::after, h3::after {
-  content: none !important;
-}
-
-/* 或精确匹配语法 */
-h2[id]:not([id=""])::before {
-  content: '';
-  display: none;
-}
-
-:target {
-  animation: highlight 1.5s ease;
-}
-
-@keyframes highlight {
-  from { background: rgba(66, 185, 131, 0.2); }
-  to { background: transparent; }
-}
