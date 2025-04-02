@@ -1,0 +1,18 @@
+:root {
+    --primary: #42b983;  /* 基础主题色 */
+    --radius: 8px;       /* 圆角参数 */
+  }
+  
+  /* 暗色模式适配 */
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --primary: #3eaf7c;
+      --bg-color: #1e1e1e;
+    }
+  }
+  
+  /* 统一圆角风格 */
+  .content, .sidebar, img {
+    border-radius: var(--radius);
+    transition: all 0.3s ease;
+  }
