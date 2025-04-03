@@ -1,7 +1,11 @@
 - __快速使用__
   - [简易使用指南](/zh-cn/guide.md)
   - [快捷键列表](/zh-cn/hotkey.md#按键设置)
-- 
+
+- __扩展功能__
+  - [手势功能](/zh-cn/gestura.md)
+  - [配置说明](/zh-cn/config_info.md)
+
 - __常见问题__
   - [问题列表](/zh-cn/problems_list.md)
   - [启动VRChat报错](/zh-cn/problems.md#启动VRChat报错)
