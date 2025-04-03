@@ -3,7 +3,8 @@
   - [快捷键列表](/zh-cn/hotkey.md#按键设置)
 
 - __扩展功能__
-  - [手势功能](/zh-cn/gestura.md)
+  - [手势功能](/zh-cn/gestura.md#手势说明)
+  - [手机控制器](/zh-cn/fakehand.md#手机控制器使用方法：)
   - [配置说明](/zh-cn/config_info.md)
 
 - __常见问题__
@@ -11,8 +12,11 @@
   - [启动VRChat报错](/zh-cn/problems.md#启动VRChat报错)
   - [面捕相关问题](/zh-cn/problems.md#面捕常见问题)
   - [联想拯救者电脑异常占用与卡顿](/zh-cn/problems.md#联想拯救者电脑异常占用与卡顿问题)
+  - [R菜单看不到](/zh-cn/problems.md#R菜单看不到)
   - [校准操作](/zh-cn/problems.md#校准问题)
   - [进入游戏无法移动](/zh-cn/problems.md#游戏内操作问题)
-  - [启动SteamVR手不见](/zh-cn/problems.md#启动SteamVR手不见)
-  - [R菜单看不到](/zh-cn/problems.md#R菜单看不到)
+  - [启动后手不动](/zh-cn/problems.md#驱动问题)
   - [ExVR快捷键没反应](/zh-cn/problems.md#ExVR快捷键没反应)
+  - [手势表情问题](/zh-cn/problems.md#关于模型手势表情的问题)
+  - [为什么我没法VR启动](/zh-cn/problems.md#为什么我的VRChat没办法变成VR模式)
+  - [为什么我没法关闭VR模式了](/zh-cn/problems.md#为什么我的VRChat没办法变成原来的样子了)
