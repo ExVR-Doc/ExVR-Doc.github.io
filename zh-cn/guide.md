@@ -16,7 +16,7 @@
 
 ## 步骤三：运行应用
 - 打开解压后的ExVR软件目录，运行main.exe，你会看到以下界面
-  ![图片](images/info.png)
+<br><img src="/zh-cn/images/info.png" style="width: 90%; max-width: 50%; height: auto;">
   - 点击<font color=blue> __Install Drivers__ </font> 安装驱动。
   - ### 如果电脑自带摄像头
   - 下拉摄像头选择，选中你要使用的摄像头。
