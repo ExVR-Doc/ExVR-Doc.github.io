@@ -92,7 +92,8 @@
 - 关于启动Exvr之后为什么还是跟pc没区别的问题 </br>
 下载好你的Steamvr，打开steam，点击vrchat的属性，启动方式改为steam虚拟现实启动 </br>
 我依然想不通为什么这种基础问题难倒这么多人 </br>
-以及vr模式没有规定一定要vr头显，不然exvr的项目是用来干啥的 </br>
+以及vr模式没有规定一定要vr头显，不然exvr的项目是用来干啥的
+
 ## 为什么我的VRChat没办法变成VR模式 {docsify-ignore}
 - 虽然说这是一个非常基础的steam操作，但是我不知道为什么很多人不知道 </br>
 问题描述: 为什么我的vrchat只能steamvr启动？ </br>
