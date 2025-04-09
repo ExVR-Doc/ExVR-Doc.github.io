@@ -4,11 +4,13 @@
     <img src="res/images/logo.png" alt="Logo" style="width: 150px; height: 150px; border-radius: 50%; object-fit: contain; border: 3px solid #eee">
 </div>
 
+<!--
 <div style="text-align: center; margin: 30px 0">
     <a href="https://exvr-doc.github.io/#/zh-cn/guide" style="margin: 0 15px; text-decoration: none; color: #2c3e50; font-weight: 1500">快速入门</a>
     <a href="https://exvr-doc.github.io/#/zh-cn/extra" style="margin: 0 15px; text-decoration: none; color: #2c3e50; font-weight: 1500">扩展功能</a>
     <a href="https://exvr-doc.github.io/#/zh-cn/problems_list" style="margin: 0 15px; text-decoration: none; color: #2c3e50; font-weight: 1500">常见问题</a>
 </div>
+-->
 
 <!-- 简介卡片 -->
 <div style="background: #ffffff; padding: 30px; border-radius: 15px; box-shadow: 0 5px 15px rgba(0,0,0,0.1); margin: 30px 0">
