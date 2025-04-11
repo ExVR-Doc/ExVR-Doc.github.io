@@ -10,6 +10,7 @@
 - __常见问题__
   - [问题列表](/zh-cn/problems_list.md)
   - [启动VRChat报错](/zh-cn/problems.md#启动VRChat报错)
+  - [点击开始追踪闪退](/zh-cn/problems.md#点击开始追踪闪退)
   - [面捕相关问题](/zh-cn/problems.md#面捕常见问题)
   - [联想拯救者电脑异常占用与卡顿](/zh-cn/problems.md#联想拯救者电脑异常占用与卡顿问题)
   - [R菜单看不到](/zh-cn/problems.md#R菜单看不到)
