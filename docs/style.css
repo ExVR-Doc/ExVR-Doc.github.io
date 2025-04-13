@@ -12,7 +12,77 @@
   }
   
   /* 统一圆角风格 */
-  .content, .sidebar, img {
+  .content, img {
     border-radius: var(--radius);
     transition: all 0.3s ease;
+  }
+  body {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url("res/images/bg.png");
+    opacity: 1; /* 透明度 0-1 (0.5=50%) */
+    z-index: 100; /* 确保内容在前 */
+    background-size: cover;       /* 图片覆盖全屏 */
+    background-attachment: fixed; /* 固定背景 */
+  }
+  .sidebar {
+    border-radius: var(--radius);
+    transition: all 0.3s ease;
+    background: linear-gradient(
+      to right, 
+      rgba(255, 215, 241, 0.8),  /* 绿色 (RGBA: 76,175,80 + 30%透明度) */
+      rgba(196, 228, 255, 0.8)  /* 蓝色 (RGBA: 33,150,243 + 30%透明度) */
+    ) ;
+   backdrop-filter: blur(5px);        /* 毛玻璃效果 */
+ 
+  }
+  .markdown-section {
+    border-radius: var(--radius);
+    background: linear-gradient(
+      to bottom, 
+      rgba(248, 255, 249, 0.3),  /* 绿色 (RGBA: 76,175,80 + 30%透明度) */
+      rgba(33, 150, 243, 0.3)  /* 蓝色 (RGBA: 33,150,243 + 30%透明度) */
+    ) ;
+  }
+  .sidebar-nav li a {
+    transition: all 0.3s ease;
+  }
+  .sidebar-nav li a:hover {
+    transform: translateX(5px);
+    color: #42b983 ;
+  }
+  .markdown-section tr:hover {
+    background-color: rgba(0, 204, 255,0.6) !important; /* 主色透明度10% */
+    transition: background-color 0.3s ease;              /* 平滑过渡 */
+    cursor: pointer;                                     /* 手型指针 */
+  }
+  
+  /* 增强型悬停效果 */
+  .markdown-section tr:hover {
+    box-shadow: 0 2px 8px rgba(0,0,0,0.05);  /* 投影增强层次 */
+    transform: scale(1.002);                 /* 微缩放效果 */
+    z-index: 1;                              /* 确保覆盖相邻行 */
+  }
+  
+  /* 斑马纹表格兼容处理 */
+  .markdown-section tr:nth-child(even):hover {
+    background-color: rgba(0, 255, 140, 0.6) !important;
+  }
+  
+  /* 移动端优化 */
+  @media (max-width: 768px) {
+    .markdown-section tr:hover {
+      background-color: inherit !important; /* 移动端禁用悬停效果 */
+      box-shadow: none;
+    }
+  }
+  
+  /* 点击保持高亮状态 */
+  .markdown-section tr.active-row {
+    background-color: rgba(66, 185, 131, 0.2) !important;
+    box-shadow: inset 3px 0 0 #42b983;
   }
