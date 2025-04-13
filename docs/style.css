@@ -86,3 +86,19 @@
     background-color: rgba(66, 185, 131, 0.2) !important;
     box-shadow: inset 3px 0 0 #42b983;
   }
+  .question-box {
+    border: 2px solid #3498db;  /* 边框颜色 */
+    border-radius: 8px;         /* 圆角 */
+    padding: 15px;              /* 内边距 */
+    margin: 20px 0;             /* 外间距 */
+    background-color: #facc8c74;  /* 背景色 */
+  }
+  /* 虚线边框 */
+.question-box-dashed {
+  border: 2px dashed #e74c3c;
+}
+
+/* 阴影增强立体感 */
+.question-box-shadow {
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
