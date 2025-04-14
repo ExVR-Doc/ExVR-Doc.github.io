@@ -5,6 +5,8 @@
   <title>ExVR使用帮助文档</title>
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/style.min.css">
   <link rel="stylesheet" href="/style.css">
+  <link rel="alternate" hreflang="en" href="/en/" />
+  <link rel="alternate" hreflang="zh" href="/zh-cn/" />
 </head>
 <body>
   <div id="app"></div>
@@ -12,9 +14,18 @@
     window.$docsify = {
       name: '<em><strong>ExVR使用帮助文档</strong></em>',
       repo: 'xiaofeiyu0723/ExVR',
-      loadSidebar: true,   
+      history:true,
+      loadSidebar: "_sidebar.md",  
+      loadNavbar: true,
+      executeScript: true,
       smoothScroll: true,
-      subMaxLevel: 3,      
+      homepage: 'zh-cn/home.md',
+      subMaxLevel: 3,     
+      alias: {
+   
+      '/_sidebar.md': '/zh-cn/_sidebar.md', 
+      '/_navbar.md': '/zh-cn/_navbar.md', 
+      },
       search: {
         placeholder: '使用没什么用的搜索',
         noData: '未找到结果'

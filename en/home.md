@@ -11,7 +11,7 @@
     <a href="https://exvr-doc.github.io/#/zh-cn/problems_list" style="margin: 0 15px; text-decoration: none; color: #2c3e50; font-weight: 1500">常见问题</a>
 </div>
 -->
-# README
+# EN
 <!-- 简介卡片 -->
 <div style="background: #ffffff; padding: 30px; border-radius: 15px; box-shadow: 0 5px 15px rgba(0,0,0,0.1); margin: 30px 0">
     <h1 style="color: #2c3e50; text-align: center; margin-bottom: 20px">欢迎来到 ExVR帮助文档</h1>
