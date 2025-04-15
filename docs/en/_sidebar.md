@@ -3,7 +3,7 @@
 
   - [Simple User Guide](/en/guide.md)
   - [Hotkey List](/en/hotkey.md#Keybind-Settings)
-  - [UI Menu Buttons](/zh-cn/UIMenu.md)
+  - [UI Menu Buttons](/en/UIMenu.md)
 
 
 - __Extended Features__  
