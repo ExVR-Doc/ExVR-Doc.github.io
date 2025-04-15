@@ -155,7 +155,7 @@ Reference: [Hotkey List](/en/hotkey.md#Keybind-Settings)
 ---  
 # VRChat Launch Mode Issues {docsify-ignore}
 
-## Can't Disable VR Mode {docsify-ignore}
+## Can not Disable VR Mode {docsify-ignore}
 <div class="question-box">
 - If VRChat remains in PC mode after ExVR launch:<br>
 In Steam: VRChat Properties → Launch Options → "SteamVR"<br>
