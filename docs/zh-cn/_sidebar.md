@@ -1,7 +1,7 @@
 - __快速使用__
   - [简易使用指南](/zh-cn/guide.md)
   - [快捷键列表](/zh-cn/hotkey.md#按键设置)
-
+  - [UI面板按钮信息](/zh-cn/UIMenu.md)
 - __扩展功能__
   - [手势功能](/zh-cn/gestura.md#手势说明)
   - [手机控制器](/zh-cn/fakehand.md#手机控制器使用方法：)

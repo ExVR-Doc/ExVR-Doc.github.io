@@ -3,7 +3,7 @@
 
   - [Simple User Guide](/en/guide.md)
   - [Hotkey List](/en/hotkey.md#Keybind-Settings)
-
+  - [UI Menu Buttons](/zh-cn/UIMenu.md)
 
 
 - __Extended Features__  
@@ -23,5 +23,5 @@
   - [Hands Not Moving After Startup](/en/problems.md#Driver-Issues)  
   - [ExVR Shortcuts Not Responding](/en/problems.md#ExVR-Hotkeys-Unresponsive)  
   - [Gesture & Expression Issues](/en/problems.md#Gesture/Expression-Issues)  
-  - [Why Can't I Disable VR Mode?](/en/problems.md#Can't-Disable-VR-Mode)  
+  - [Why Can't I Disable VR Mode?](/en/problems.md#Can-not-Disable-VR-Mode)  
   - [Why Can't I Launch in VR?](/en/problems.md#Failed-VR-Mode-Activation)  
