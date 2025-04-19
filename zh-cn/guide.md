@@ -17,11 +17,13 @@
 ## 步骤三：运行应用
 - 打开解压后的ExVR软件目录，运行main.exe，你会看到以下界面
 <br><img src="/zh-cn/images/info.png" style="width: 90%; max-width: 50%; height: auto;">
+
   - 点击<font color=blue> __Install Drivers__ </font> 安装驱动。
   - ### 如果电脑自带摄像头
   - 下拉摄像头选择，选中你要使用的摄像头。
   - ### 如果电脑不自带摄像头
-  - 使用xxx软件等生成网络摄像头，并将获得的网络摄像头链接写入 __网络摄像头框__ 内。
+  - 使用网路摄像头链接软件等生成网络摄像头，并将获得的网络摄像头链接写入 __网络摄像头框__ 内。
+    - [使用摄像头](/zh-cn/camera.md)
   
 - 点击<font color=green> __Start Tracking__ </font> 开启追踪。
 - 开启追踪后点击 __Show Frame__ 可以查看摄像头画面。
