@@ -9,19 +9,19 @@
 
 - [owoTracker](https://github.com/abb128/owo-track-driver)
 
-- [VRCFaceTracking](https://github.com/benaclejames/VRCFaceTracking)      
-### 视频管线全身追踪
-> https://github.com/ju1ce/Mediapipe-VR-Fullbody-Tracking
+- [VRCFaceTracking](https://github.com/benaclejames/VRCFaceTracking)  
+
+### 软件介绍
+
+- [视频管线全身追踪](https://github.com/ju1ce/Mediapipe-VR-Fullbody-Tracking)
 此软件可实现对全身的追踪，虚拟3个Tracker，完成对双脚和腰部的追踪。
 在本计划中充当腰部（可替换）和脚的追踪器
 如果继续使用owoTracker可依据教程关闭腰部追踪
-### VRCFaceTracking
-> https://github.com/benaclejames/VRCFaceTracking<br>
+- [VRCFaceTracking](https://github.com/benaclejames/VRCFaceTracking) 
 官方的面捕插件可以搭载多个模型，实现面捕功能
 在本计划中充当面捕功能
 
-### owoTracker
-> https://github.com/abb128/owo-track-driver<br>
+- [owoTracker](https://github.com/abb128/owo-track-driver)
 使用一台可以运行owoTracker的手机充当定位器，代替腰部Chocker，较使用视频管线全身追踪拥有更高的精确度。
 在本计划中可以作为优化追踪的手段。
 

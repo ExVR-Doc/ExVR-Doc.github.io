@@ -1,6 +1,6 @@
 # 问题列表 {docsify-ignore}
    1. [启动VRChat报错](/zh-cn/problems.md#启动VRChat报错) </br>
-   2. [点击开始追踪闪退](/zh-cn/problems.md#点击开始追踪闪退) </br>
+   2. [点击开始追踪未响应或者闪退](/zh-cn/problems.md#点击开始追踪未响应或者闪退) </br>
    3. [面捕相关问题](/zh-cn/problems.md#面捕常见问题) </br>
    4. [联想拯救者电脑异常占用与卡顿](/zh-cn/problems.md#联想拯救者电脑异常占用与卡顿问题) </br>
    5. [R菜单看不到](/zh-cn/problems.md#R菜单看不到) </br>
