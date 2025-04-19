@@ -4,7 +4,7 @@
   - [Simple User Guide](/en/guide.md)
   - [Hotkey List](/en/hotkey.md#Keybind-Settings)
   - [UI Menu Buttons](/en/UIMenu.md)
-
+  - [Use Camera](/zh-cn/camera.md)
 
 - __Extended Features__  
   - [Use VRCFT FaceTracking](/en/VRCFaceTracking.md#software-Reference-for-Low-Cost-VR-Implementation-with-EXVR-based-Extended-Features)

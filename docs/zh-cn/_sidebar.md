@@ -2,6 +2,7 @@
   - [简易使用指南](/zh-cn/guide.md)
   - [快捷键列表](/zh-cn/hotkey.md#按键设置)
   - [UI面板按钮信息](/zh-cn/UIMenu.md)
+  - [使用摄像头](/zh-cn/camera.md)
 - __扩展功能__
   - [VRCFT面捕使用](/zh-cn/VRCFaceTracking.md#使用VRCFaceTrackng增强面部追踪效果)
   - [手势功能](/zh-cn/gestura.md#手势说明)
@@ -22,4 +23,4 @@
   - [ExVR快捷键没反应](/zh-cn/problems.md#ExVR快捷键没反应)
   - [手势表情问题](/zh-cn/problems.md#关于模型手势表情的问题)
   - [为什么我没法关闭VR模式了](/zh-cn/problems.md#为什么我的VRChat没办法变成原来的样子了)
-  - [为什么我没法VR启动](/zh-cn/problems.md#为什么我的VRChat没办法变成VR模式)
+# 使用摄像头
