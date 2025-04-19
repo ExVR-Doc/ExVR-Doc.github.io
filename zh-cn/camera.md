@@ -1,8 +1,8 @@
-# 使用摄像头
-## 使用本地摄像头
+# 使用摄像头 {docsify-ignore}
+## 使用本地摄像头 {docsify-ignore}
 拥有的本地摄像头，是EXVR的默认选项，问题待收集；
-## 使用外接摄像头
-### 软件推荐
+## 使用外接摄像头 {docsify-ignore}
+### 软件推荐 {docsify-ignore}
 
 <b><font color=red>请自行选用适合的网络摄像头插件（电脑服务端以及手机客户端）仅用作推荐，请根据环境参考响应软件的文档并做出调整。</font></b>
 <br>
@@ -11,7 +11,7 @@
 - [DroidCam](https://www.dev47apps.com) <br>
 - [Iriun](https://iriun.com)<br>
 
-### 链接配置
+### 链接配置 {docsify-ignore}
 请在完成网络摄像头软件端的配置之后可以在软件中看到手机摄像头传输的视频图像后继续
 
 <img src="/zh-cn/images/Camera.png" style="width: 100%; max-width: 100%; height: auto;"><br>

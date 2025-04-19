@@ -1,9 +1,9 @@
-# Using Camera
-## Using Local Camera
+# Using Camera {docsify-ignore}
+## Using Local Camera {docsify-ignore}
 The built-in local camera is the default option in EXVR. Issues to be collected;
 
-## Using External Camera
-### Software Recommendations
+## Using External Camera {docsify-ignore}
+### Software Recommendations {docsify-ignore}
 
 <b><font color=red>Please select appropriate webcam plugins (both PC server-side and mobile client-side) for your environment. This is only a recommendation - please refer to each software's documentation and adjust according to your specific environment.</font></b>
 <br>
@@ -12,7 +12,7 @@ The built-in local camera is the default option in EXVR. Issues to be collected;
 - [DroidCam](https://www.dev47apps.com) <br>
 - [Iriun](https://iriun.com)<br>
 
-### Connection Configuration
+### Connection Configuration {docsify-ignore}
 Proceed with the following steps after completing the network camera software configuration and verifying that video images from your mobile camera are successfully transmitted to the computer.
 
 <img src="/zh-cn/images/Camera.png" style="width: 100%; max-width: 100%; height: auto;"><br>

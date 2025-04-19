@@ -20,7 +20,7 @@
   - Select your camera from the dropdown.
   - ### For External Webcam
   - Use third-party tools (e.g., OBS Virtual Camera) to create a virtual webcam and input its URL into the **network camera field**.
-      - [Use Camera](/en/camera.md)
+     [Use Camera](/en/camera.md)
 
 - Click <font color=green>__Start Tracking__</font> to begin tracking.
 - After starting tracking, click **Show Frame** to view the camera feed.

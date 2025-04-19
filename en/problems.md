@@ -13,6 +13,7 @@
 </div>
 
 ## App crashes when clicking Start Tracking {docsify-ignore}
+  [Quick Start Guide Step 2](/zh-cn/guide.md#step-2-extract-files)
 <div class="question-box">
   <p>
   <b>Note:</b>  <br>
@@ -20,7 +21,7 @@
   </p>
   <p>
 - <b>Solution:</b>  <br>
-  Ensure the extraction path contains **no Chinese characters** (see [Quick Start Guide Step 2](/zh-cn/guide.md#step-2-extract-files)).
+  Ensure the extraction path contains **no Chinese characters**
   </p>
 </div>
 
@@ -133,8 +134,8 @@ Hotkeys work in ExVR window but not in-game.
 </ul>
 </div>
 
-Reference: [Hotkey List](/en/hotkey.md#Keybind-Settings)
----  
+  Reference: [Hotkey List](/en/hotkey.md#Keybind-Settings)
+ 
 # Gesture/Expression Issues {docsify-ignore}
 
 <h2 id="gesture-expression">Gesture & Expression Problems</h2>

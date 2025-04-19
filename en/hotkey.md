@@ -63,8 +63,8 @@
 |----------------|-----------------------|----------------|------------------------|
 | `[ + F1`       | ✋ Open hand           | `] + F1`       | ✋ Open hand            |
 | `[ + F2`       | ✊ Fist                | `] + F2`       | ✊ Fist                 |
-| `[ + F3`       | ☝️ Point index         | `] + F3`       | 🖕 Middle finger        |
-| `[ + F4`       | 🖕 Middle finger       | `] + F4`       | ☝️ Point index          |
+| `[ + F3`       | 🖕 Point index         | `] + F3`       | 🖕 Middle finger        |
+| `[ + F4`       | ☝️ Middle finger       | `] + F4`       | ☝️ Point index          |
 | `[ + F5`       | ✌️ Victory            | `] + F5`       | ✌️ Victory             |
 | `[ + F6`       | 🤘 Rocker             | `] + F6`       | 🤘 Rocker              |
 | `[ + F7`       | 👈 Thumbs left        | `] + F7`       | 👈 Thumbs left         |
