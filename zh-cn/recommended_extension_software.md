@@ -1,9 +1,9 @@
 
-# 关于基于EXVR的低成本VR实现扩展功能软件参考
+# 关于基于EXVR的低成本VR实现扩展功能软件参考 {docsify-ignore}
 <font color=red>请视情况选用引用项目</font>
 
-## 软件
-### 引言
+## 软件 {docsify-ignore}
+### 引言 {docsify-ignore}
 本文使用来自github的开源仓库
 - [视频管线全身追踪](https://github.com/ju1ce/Mediapipe-VR-Fullbody-Tracking)
 
@@ -11,7 +11,7 @@
 
 - [VRCFaceTracking](https://github.com/benaclejames/VRCFaceTracking)  
 
-### 软件介绍
+### 软件介绍 {docsify-ignore}
 
 - [视频管线全身追踪](https://github.com/ju1ce/Mediapipe-VR-Fullbody-Tracking)
 此软件可实现对全身的追踪，虚拟3个Tracker，完成对双脚和腰部的追踪。
@@ -25,7 +25,6 @@
 使用一台可以运行owoTracker的手机充当定位器，代替腰部Chocker，较使用视频管线全身追踪拥有更高的精确度。
 在本计划中可以作为优化追踪的手段。
 
-## 硬件建议
+## 硬件建议 {docsify-ignore}
 - 使用两个摄像头（任意）充当上半身和下半身的视频输入分别传入EXVR和Mediapipe-VR-Fullbody-Tracking
 - 如果使用单摄像头也具有可行性，但需要将整个身体纳入摄像头的同时保持EXVR追踪视频清晰且易于操作VR游戏较为困难
-

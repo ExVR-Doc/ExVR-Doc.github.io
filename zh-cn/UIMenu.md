@@ -1,7 +1,8 @@
-# UI 面板说明
+# UI 面板说明 {docsify-ignore}
 <img src="/zh-cn/images/info.png" style="width: 90%; max-width: 50%; height: auto;"><br>
 (按UI面板从上到下的顺序)
-## 摄像头UI
+
+## 摄像头UI {docsify-ignore}
 
 |||||||
 |--------|--------|--|--|--|--|
@@ -11,26 +12,26 @@
 |__摄像头追踪性能类型__|摄像头追踪性能类型|
 
 
-## 开始UI
+## 开始UI {docsify-ignore}
 |||
 |--|--|
 |__Install Drivers__|安装驱动到SteamVR路径|
 |__Start Tracking__|开始追踪|
 |__Show Frame__|展示摄像头追踪结果|
 
-## 追踪设定快速自定义UI
+## 追踪设定快速自定义UI {docsify-ignore}
 |||||||||
 |--------|--------|--|--|--|--|--|--|
 |__Reset Hand__|重置手部旋转和位置|__Reset Eyes__|重置眼部形态键|__Reset LHand__|重置左手z轴偏移|__Reset RHand__|重置右手z轴偏移|
 |__Head__|激活头部追踪|__Face__|激活面部追踪|__Tongue__|激活舌头追踪|__Hand__|激活手部追踪|
 |__x__|手在x方向移动的灵活度|__y__|手在y方向移动的灵活度|__z__|手在z方向移动的灵活度|
 
-## 手机控制器UI
+## 手机控制器UI {docsify-ignore}
 |||||||||
 |--------|--------|--|--|--|--|--|--|
 |__Left Controller__|左手控制器开关|__Right Controller__|右手控制器开关|
 |__x__|base_x数值，控制器x轴位置左右手反向|__y__|base_y数值，控制器y轴位置|__z__|base_z数值，控制器z轴位置|__l__|手从base位置到实际位置的距离|
-## 其他UI
+## 其他UI {docsify-ignore}
 |||
 |--|--|
 |__Reset Hotkey__|重置热键状态|
