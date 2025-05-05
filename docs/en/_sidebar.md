@@ -7,7 +7,6 @@
   - [Use Camera](/zh-cn/camera.md)
 
 - __Extended Features__  
-  - [Use VRCFT FaceTracking](/en/VRCFaceTracking.md#software-Reference-for-Low-Cost-VR-Implementation-with-EXVR-based-Extended-Features)
   - [Gesture Functions](/en/gestura.md#Gesture-Instructions)  
   - [Phone Controller](/en/fakehand.md#Mobile-Controller-Usage-Guide)  
   - [Recommended VR Extension Software](/en/VRCFaceTracking.md#Enhancing-Facial-Tracking-with-VRCFaceTracking)
