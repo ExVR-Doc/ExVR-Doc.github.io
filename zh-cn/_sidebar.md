@@ -4,7 +4,6 @@
   - [UI面板按钮信息](/zh-cn/UIMenu.md)
   - [使用摄像头](/zh-cn/camera.md)
 - __扩展功能__
-  - [VRCFT面捕使用](/zh-cn/VRCFaceTracking.md#使用VRCFaceTrackng增强面部追踪效果)
   - [手势功能](/zh-cn/gestura.md#手势说明)
   - [手机控制器](/zh-cn/fakehand.md#手机控制器使用方法：)
   - [VR扩展软件推荐](/zh-cn/recommended_extension_software#关于基于EXVR的低成本VR实现扩展功能软件参考)
