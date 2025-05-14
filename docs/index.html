@@ -10,35 +10,64 @@
 </head>
 <body>
   <div id="app"></div>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/index.min.js"></script>
+
+  <!-- 系统主题变化监听 -->
   <script>
+    const themeMediaQuery = window.matchMedia('(prefers-color-scheme: dark)')
+    
+    const handleThemeChange = (e) => {
+      // 仅当用户未手动设置时响应系统变化
+      if (!localStorage.getItem('theme')) {
+        const newTheme = e.matches ? 'dark' : 'light'
+        document.documentElement.setAttribute('data-theme', newTheme)
+      }
+    }
+
+    // 添加监听
+    themeMediaQuery.addEventListener('change', handleThemeChange)
+
+  </script>
+  <script>
+    // 初始化主题设置
+    const getBrowserTheme = () => {
+      const isDark = window.matchMedia('(prefers-color-scheme: dark)').matches
+      return isDark ? 'dark' : 'light'
+    }
+
+    // 获取存储的主题或浏览器默认
+    const savedTheme = localStorage.getItem('theme') || getBrowserTheme()
+    document.documentElement.setAttribute('data-theme', savedTheme)
+
     window.$docsify = {
       name: '<em><strong>ExVR使用帮助文档</strong></em>',
       repo: 'ExVR-Doc/ExVR-Doc.github.io',
-      history:true,
-      loadSidebar: "_sidebar.md",  
+      history: true,
+      loadSidebar: "_sidebar.md",
       loadNavbar: true,
       executeScript: true,
       smoothScroll: true,
       homepage: 'zh-cn/home.md',
-      subMaxLevel: 3,     
+      subMaxLevel: 3,
       alias: {
-   
-      '/_sidebar.md': '/zh-cn/_sidebar.md', 
-      '/_navbar.md': '/zh-cn/_navbar.md', 
+        '/_sidebar.md': '/zh-cn/_sidebar.md',
+        '/_navbar.md': '/zh-cn/_navbar.md',
       },
       search: {
-        placeholder: '使用没什么用的搜索',
+        placeholder: '搜索文档',
         noData: '未找到结果'
       },
-      themeColor: '#42b983'
-    }
-    scrollToTop: {
-    offset: 60
+      darkMode: {
+        enable: true,    // 启用暗黑模式
+        auto: true,      // 自动跟随浏览器主题
+        change: true,    // 显示切换按钮
+        base: 'light',   // 默认基础主题
+        contrast: 'dark' // 默认对比主题
+      },
     }
   </script>
-  <!-- 核心库 -->
-  <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
-  <script src="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/style.min.js"></script>
-  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+
+
 </body>
 </html>
