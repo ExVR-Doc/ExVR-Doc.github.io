@@ -21,4 +21,5 @@
   - [启动后手不动](/zh-cn/problems.md#驱动问题)
   - [ExVR快捷键没反应](/zh-cn/problems.md#ExVR快捷键没反应)
   - [手势表情问题](/zh-cn/problems.md#关于模型手势表情的问题)
+  - [为什么我没法VR启动](/zh-cn/problems.md#为什么我的VRChat没办法变成VR模式)
   - [为什么我没法关闭VR模式了](/zh-cn/problems.md#为什么我的VRChat没办法变成原来的样子了)
