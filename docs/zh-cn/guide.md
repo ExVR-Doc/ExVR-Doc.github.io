@@ -32,7 +32,10 @@
 - 打开解压的 __VRCFaceTracking_5.2.3.0_x64.zip__ 内的 __VRCFaceTracking.exe__ 。
 - 如果显示 __No Modules Installed__ 请安装驱动。
 - 注：（如果不需要面捕可以不运行该exe，不影响手追与头追功能）
-## 步骤五：使用SteamVR运行VRChat {docsify-ignore}
+## 步骤五：一些使用的调整 {docsify-ignore}
+- 使用PC模式打开VRChat，进入__设置__ - __控制__ 将**手势独占**功能关闭。
+- 关闭之后才能正常使用Exvr的鼠标点击功能
+## 步骤六：使用SteamVR运行VRChat {docsify-ignore}
 - 打开Steam，打开VRChat，点击运行，选择 __在Steam虚拟显示模式下启动VRChat__ 。
 - 如果没有选择页面并且运行VRChat依然为PC模式。
   - 点击VRChat库页面的齿轮图标，选择属性，点击已选启动选项，选择在开始游戏时询问或Steam虚拟现实启动
