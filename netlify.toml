@@ -1,9 +1,0 @@
-[build]
-  publish = "/"  # 静态文件目录
-  functions = "netlify/functions"  # 函数目录
-
-# 路由规则（可选）
-[[redirects]]
-  from = "/api/*"
-  to = "/.netlify/functions/api"
-  status = 200
