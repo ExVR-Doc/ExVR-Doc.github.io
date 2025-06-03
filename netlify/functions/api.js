@@ -11,7 +11,7 @@ exports.handler = async (event) => {
  }
 
  try {
-   const filePath = path.join(__dirname, 'data.json');
+   const filePath = path.join(__dirname, 'exvrserverdata.json');
    const data = fs.readFileSync(filePath, 'utf8');
    const jsonData = JSON.parse(data);
 
