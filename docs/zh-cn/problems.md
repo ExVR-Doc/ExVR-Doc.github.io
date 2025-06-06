@@ -1,4 +1,27 @@
 # 已知问题和解决方案  {docsify-ignore}
+## 安装问题
+### 计算机积极阻止了一个远程连接
+<div class="question-box">
+
+  网络问题：检查网络状态或是关闭防火墙
+  </div>
+
+  ### Requirements installation failed with return code 1
+  <div class="question-box">
+   
+  安装Python环境出现问题，请重新安装python 3.11.9，如未解决参照问题反馈方式进行反馈
+
+  [安装问题反馈方式](zh-cn/guide.md#安装问题反馈方式) 
+  
+  </div>
+
+  ###   Python installation failed with code 1601
+
+   <div class="question-box">
+
+   Python卸载出现残留，完全卸载Python后重启电脑，再次尝试安装。
+   </div>
+
 ## 启动VRChat报错  {docsify-ignore}
 <div class="question-box">
    <p>
