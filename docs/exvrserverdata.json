@@ -1,7 +1,7 @@
 {
   "appName": "ExVR",
-  "version": "0.7.0",
+  "version": "0.7.1",
   "lau_version": 1,
-  "lau_board": "暂无更新",
+  "lau_board": "测试测试",
   "board": {"title": "更新公告", "text": "<span style='color:red;'>测试公告</span>"}
 }
