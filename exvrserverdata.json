@@ -5,28 +5,6 @@
   "lau_board": "ExVR Launcher - ExVR启动器",
   "board": {
     "title": "Update 更新公告",
-    "text": "<p><b>Welcome to ExVR!</b></p> \
-<p>🔗 <b>Help Documents:</b><br> \
-<a href='https://exvr-doc.github.io/' target='_blank'>Link 1 (GitHub, faster)</a><br> \
-<a href='https://exvr-doc.netlify.app/' target='_blank'>Link 2 (Netlify, slower)</a></p> \
-<p>📦 <b>Project Repository:</b><br> \
-<a href='https://github.com/xiaofeiyu0723/ExVR' target='_blank'>https://github.com/xiaofeiyu0723/ExVR</a></p> \
-<p>💬 <b>Community Support:</b><br> \
-Discord: <a href='https://discord.com/invite/WcRWDyETEd' target='_blank'>Join our Discord</a><br> \
-QQ Group 1: 469852242<br> \
-QQ Group 2: 599959205</p> \
-<p style='color:red;'>⚠️ This is a test version. Features may change. Feedback is welcome!</p> \
-<hr> \
-<p><b>欢迎使用 ExVR！</b></p> \
-<p>🔗 <b>帮助文档：</b><br> \
-<a href='https://exvr-doc.github.io/' target='_blank'>链接1（GitHub，速度较快）</a><br> \
-<a href='https://exvr-doc.netlify.app/' target='_blank'>链接2（Netlify，速度较慢）</a></p> \
-<p>📦 <b>项目地址：</b><br> \
-<a href='https://github.com/xiaofeiyu0723/ExVR' target='_blank'>https://github.com/xiaofeiyu0723/ExVR</a></p> \
-<p>💬 <b>社区支持：</b><br> \
-Discord: <a href='https://discord.com/invite/WcRWDyETEd' target='_blank'>加入 Discord</a><br> \
-QQ群1：469852242<br> \
-QQ群2：599959205</p> \
-<p style='color:red;'>⚠️ 当前为测试版本，功能可能会变动，欢迎反馈建议！</p>"
+    "text": "<p><b>Welcome to ExVR!</b></p><p><b>Help Documents:</b><br><a href='https://exvr-doc.github.io/' target='_blank'>Link 1 (GitHub, faster)</a><br><a href='https://exvr-doc.netlify.app/' target='_blank'>Link 2 (Netlify, slower)</a></p><p><b>Project Repository:</b><br><a href='https://github.com/xiaofeiyu0723/ExVR' target='_blank'>https://github.com/xiaofeiyu0723/ExVR</a></p><p><b>Community Support:</b><br>Discord: <a href='https://discord.com/invite/WcRWDyETEd' target='_blank'>Join our Discord</a><br>QQ Group 1: 469852242<br>QQ Group 2: 599959205</p><p style='color:red;'>This is a test version. Features may change. Feedback is welcome!</p><hr><p><b>欢迎使用 ExVR！</b></p><p><b>帮助文档：</b><br><a href='https://exvr-doc.github.io/' target='_blank'>链接1（GitHub，速度较快）</a><br><a href='https://exvr-doc.netlify.app/' target='_blank'>链接2（Netlify，速度较慢）</a></p><p><b>项目地址：</b><br><a href='https://github.com/xiaofeiyu0723/ExVR' target='_blank'>https://github.com/xiaofeiyu0723/ExVR</a></p><p><b>社区支持：</b><br>Discord: <a href='https://discord.com/invite/WcRWDyETEd' target='_blank'>加入 Discord</a><br>QQ群1：469852242<br>QQ群2：599959205</p><p style='color:red;'>当前为测试版本，功能可能会变动，欢迎反馈建议！</p>"
   }
 }
