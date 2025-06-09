@@ -1,5 +1,5 @@
 # 简易使用指南 {docsify-ignore}
-## 使用启动器自动安装 ——<font color=#FF0000> </font>
+## 使用启动器自动安装 —— 新版<font color=#FF0000> </font>
 - 1.打开Steam搜索SteamVR安装
 - 2.下载软件安装包以及面捕软件 __VRCFaceTracking_5.2.3.0_x64.zip__ 。
 - ### 方法一
@@ -9,8 +9,8 @@
 - 3.使用管理员权限运行 __"ExVRLauncher.exe"__。
 - 4.选择安装目录(__推荐选择与启动器同一路径__)等待安装完成自动启动
 - 5.安装完成以后使用ExVR只需双击 __"ExVRLauncher.exe"__  启动器
-### 安装内容预览
 - 6.使用面捕以及后续操作可跳转为 [旧步骤三](/zh-cn/guide.md#运行应用)
+### 安装内容预览
 - python 3.11.9
 - python环境
 - ExVR python程序
