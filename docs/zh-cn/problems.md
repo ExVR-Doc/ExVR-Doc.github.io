@@ -1,5 +1,5 @@
 # 已知问题和解决方案  {docsify-ignore}
-## 安装问题 
+## 安装问题 {docsify-ignore}
 ### 计算机积极阻止了一个远程连接 {docsify-ignore}
 <div class="question-box">
 
@@ -9,7 +9,7 @@
   ### Requirements installation failed with return code 1 {docsify-ignore}
   <div class="question-box">
    
-  尝试访问 [网址](https://pypi.tuna.tsinghua.edu.cn/simple/)，如显示被屏蔽则使用手机热点给电脑提供网络再次运行安装程序, 如仍未解决参照问题反馈方式进行反馈
+  尝试访问 [网址](https://pypi.tuna.tsinghua.edu.cn/simple)，如显示被屏蔽则使用手机热点给电脑提供网络再次运行安装程序, 如仍未解决参照问题反馈方式进行反馈
 
   [安装问题反馈方式](zh-cn/guide.md#安装问题反馈方式) 
   
