@@ -30,7 +30,7 @@
         <p>Herielmn</p>
         <p>WavesMan</p>
         <p>Zeren77</p>
-        <p>AuraElicase
+        <p>AuraElicase</p>
         <p>XDS2732</p>
     </div>
     <div style="padding: 20px; background: #f8f9fa; border-radius: 15px">

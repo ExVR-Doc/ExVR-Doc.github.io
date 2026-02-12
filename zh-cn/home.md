@@ -26,7 +26,13 @@
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; margin: 40px 0">
     <div style="padding: 20px; background: #f8f9fa; border-radius: 15px">
         <h3>感谢所有项目贡献人员(排名不分先后)</h3>
-        <p>xxx</p>
+        <p>xiaofeiyu0723</p>
+        <p>Herielmn</p>
+        <p>WavesMan</p>
+        <p>Zeren77</p>
+        <p>AuraElicase</p>
+        <p>XDS2732</p>
+        <p>sweetsugarlife</p>
     </div>
     <div style="padding: 20px; background: #f8f9fa; border-radius: 15px">
         <h3>参考项目列表</h3>
